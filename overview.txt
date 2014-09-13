@@ -1,0 +1,19 @@
+Benjamin Witt
+Overview
+CS414 - A1
+09/11/14
+
+This project provides the functionality to create companies, workers, projects and qualifications,
+which are used in conjunction to manage projects at a company.  Workers are created and hired, then
+added to projects for which they may assist in meeting the qualifications for completion.  These 
+workers can also be fired and their qualification efforts will be removed from projects which will 
+subsequently be reevaluated for requisite included qualifications. Company, worker, project and 
+qualifications will be managed within the application and added/removed as needed (based on spec).
+
+The major factor in my early struggles on this project was getting used to more advanced java (and eclipse) 
+sinceI am by no means an expert on this language.  After doing some research and working out some of the 
+kinks, I was able to get an idea for my basic structure and how to go about it.  After this, everything
+seemed to fall into place since this the concepts involved with this program flow well and are very
+logical.  I felt slightly overwhelmed at first but, by taking a step back then thinking about the 
+program in smaller pieces, I was able to focus better and now definitely feel more confident going into 
+the next set of assignments.
